@@ -25,8 +25,9 @@ Daily work of an IT Technician Intern: logging issues, prioritizing, tracking re
 
 ### Screenshots
 ![Tickets Log](./
-<img width="1600" height="900" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/91ce12e5-c684-4631-940b-b655c66a9a1b" />
-<img width="1600" height="900" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/2e966def-1efb-4c1b-9a90-142fc5a88b3f" />
+<img width="1153" height="539" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c1ef6497-e7fe-4f85-b16d-619ed201dbb6" />
+<img width="362" height="352" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/a32346be-e870-46db-8696-78ed8aa9a1cc" />
+
 )
 ![Dashboard](./[IT_Support_Tracker.xlsx](https://github.com/user-attachments/files/34009542/IT_Support_Tracker.xlsx)
 )
